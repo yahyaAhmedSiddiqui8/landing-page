@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.maindiv{
+    background-color:ghostwhite;
+    width: 100%;
+    height: 610px;
+    border: 1px;
+    opacity: 0.9;
+
+  
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    
+}
+
+.center_header{
+    display: flex;
+    gap: 20px;
+}
+
+.button_text{
+    width: 100px;
+    height: 40px;
+    border-radius: 24px;
+    padding: 5px;
+}
+
+
+.hero_section{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 120px;
+    padding-left: 25PX;
+   
+}
+
+
+.hending{
+    font-size: 75px;
+}
+
+
+
+
+.ICON{
+    display: flex;
+    gap: 10px;
+    padding-top: 40px;
+ 
+}
+
+
+.buttonone{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+.buttonone{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+.buttontwo{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#margin{
+    margin: 50px;
+}
+
+.text_div{
+    display: flex;
+    gap: 550px;
+}
+
+.text_div p {
+    font-size: 20px;
+}
+
+.imageone{
+    width: 600px;
+    height: 300px;
+    margin-left: 20px;
+ 
+}
+
+
+
+.imagetwo{
+    width: 600px;
+    height: 300px;
+    margin-right: 20px ; 
+  
+ 
+}
+
+.imagethree{
+    width: 600px;
+    height: 300px;
+    margin-left: 0px;
+ 
+}
+
+
+.imagefour{
+    width: 600px;
+    height: 300px;
+    margin-right: -50px;
+  
+ 
+}
+
+.picture_divone{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-top: 20px ;
+    
+}
+
+
+.picture_divtwo{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-top: 20px ;
+    
+}
+
